@@ -1,0 +1,53 @@
+﻿Study Static Analysis:TELESCOPIC DESIGN STUDY started: 15-Apr-25, 12:51:35 PM
+Number of configurations: 1
+Default mesh: 168250 elements, 311951 nodes
+Mesh at contact 56 is too coarse
+Mesh at contact 58 is too coarse
+Mesh at contact 62 is too coarse
+Mesh at contact 68 is too coarse
+Mesh at contact 69 is too coarse
+Mesh at contact 94 is too coarse
+Mesh at contact 95 is too coarse
+Mesh at contact 100 is too coarse
+Mesh at contact 131 is too coarse
+Mesh at contact 132 is too coarse
+Solution time 98.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 15-Apr-25, 12:56:24 PM
+Total time 0:04:49
+
+Study BASE ANALYSIS started: 15-Apr-25, 1:04:58 PM
+Number of configurations: 1
+Default mesh: 154468 elements, 285106 nodes
+Mesh at contact 34 is too coarse
+Mesh at contact 36 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 51 is too coarse
+Mesh at contact 53 is too coarse
+Mesh at contact 57 is too coarse
+Mesh at contact 115 is too coarse
+Mesh at contact 116 is too coarse
+Solution time 90.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 15-Apr-25, 1:08:14 PM
+Total time 0:03:16
+
+Study BASE ANALYSIS started: 15-Apr-25, 1:09:51 PM
+Number of configurations: 1
+Default mesh: 154468 elements, 285106 nodes
+Mesh at contact 34 is too coarse
+Mesh at contact 36 is too coarse
+Mesh at contact 40 is too coarse
+Mesh at contact 51 is too coarse
+Mesh at contact 53 is too coarse
+Mesh at contact 57 is too coarse
+Mesh at contact 115 is too coarse
+Mesh at contact 116 is too coarse
+Solution time 85.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study BASE ANALYSIS finished: 15-Apr-25, 1:11:33 PM
+Total time 0:01:42
+

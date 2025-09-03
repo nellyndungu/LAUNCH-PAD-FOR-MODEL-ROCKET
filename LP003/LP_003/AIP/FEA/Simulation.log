@@ -1,0 +1,28 @@
+﻿Study Static Analysis:LP_50mm  ANALYSIS started: 12-Apr-25, 4:05:20 PM
+Number of configurations: 1
+Default mesh: 90977 elements, 171066 nodes
+Mesh at contact 21 is too coarse
+Mesh at contact 22 is too coarse
+Mesh at contact 24 is too coarse
+Mesh at contact 25 is too coarse
+Mesh at contact 33 is too coarse
+Mesh at contact 34 is too coarse
+Solution time 100s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:LP_50mm  ANALYSIS finished: 12-Apr-25, 4:07:20 PM
+Total time 0:02:00
+
+Study Static Analysis: BASE ANALYSIS started: 12-Apr-25, 4:18:13 PM
+Number of configurations: 1
+Default mesh: 91005 elements, 171103 nodes
+Mesh at contact 46 is too coarse
+Mesh at contact 78 is too coarse
+Mesh at contact 79 is too coarse
+Mesh at contact 84 is too coarse
+Solution time 111s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 12-Apr-25, 4:21:33 PM
+Total time 0:03:20
+

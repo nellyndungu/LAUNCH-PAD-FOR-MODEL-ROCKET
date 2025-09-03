@@ -1,0 +1,30 @@
+﻿Study TELESCOPIC WITH SUPPORT started: 16-Apr-25, 5:49:08 PM
+Number of configurations: 1
+Default mesh: 146082 elements, 270682 nodes
+Mesh at contact 22 is too coarse
+Mesh at contact 24 is too coarse
+Mesh at contact 28 is too coarse
+Mesh at contact 39 is too coarse
+Mesh at contact 41 is too coarse
+Mesh at contact 45 is too coarse
+Solution time 82.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 16-Apr-25, 5:52:40 PM
+Total time 0:03:32
+
+Study TELESCOPIC WITH SUPPORT started: 16-Apr-25, 6:25:06 PM
+Number of configurations: 1
+Default mesh: 146826 elements, 271692 nodes
+Mesh at contact 22 is too coarse
+Mesh at contact 24 is too coarse
+Mesh at contact 28 is too coarse
+Mesh at contact 39 is too coarse
+Mesh at contact 41 is too coarse
+Mesh at contact 45 is too coarse
+Solution time 108s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 16-Apr-25, 6:29:35 PM
+Total time 0:04:29
+
