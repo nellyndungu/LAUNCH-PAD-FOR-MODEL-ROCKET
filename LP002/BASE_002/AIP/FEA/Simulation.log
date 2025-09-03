@@ -1,0 +1,17 @@
+﻿Study Static Analysis:LP002 ANALYSIS started: 09-Apr-25, 3:15:56 PM
+Number of configurations: 1
+Default mesh: 99875 elements, 184378 nodes
+Mesh at contact 2 is too coarse
+Mesh at contact 4 is too coarse
+Mesh at contact 32 is too coarse
+Mesh at contact 34 is too coarse
+Mesh at contact 50 is too coarse
+Mesh at contact 51 is too coarse
+Mesh at contact 75 is too coarse
+Mesh at contact 77 is too coarse
+Solution time 167s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:LP002 ANALYSIS finished: 09-Apr-25, 3:19:02 PM
+Total time 0:03:06
+
