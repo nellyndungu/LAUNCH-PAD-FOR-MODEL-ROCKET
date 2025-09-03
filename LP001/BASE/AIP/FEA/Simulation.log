@@ -1,0 +1,21 @@
+﻿Study Static Analysis:  TELESCOPIC ANALYSIS started: 03-Apr-25, 9:41:03 PM
+Number of configurations: 1
+Default mesh: 56283 elements, 113803 nodes
+A model separates into 4 independent components
+Soft spring was added
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 48s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:  TELESCOPIC ANALYSIS finished: 03-Apr-25, 9:41:57 PM
+Total time 0:00:54
+
+Study Static Analysis:  TELESCOPIC ANALYSIS started: 03-Apr-25, 10:03:18 PM
+Number of configurations: 1
+Default mesh: 109499 elements, 206911 nodes
+Solution time 62s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 03-Apr-25, 10:05:55 PM
+Total time 0:02:37
+

@@ -1,0 +1,22 @@
+﻿Study Static Analysis:LAUNCHPAD ANALYSIS started: 04-Apr-25, 11:13:47 AM
+Number of configurations: 1
+Default mesh: 128929 elements, 241096 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 86.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:LAUNCHPAD ANALYSIS finished: 04-Apr-25, 11:15:37 AM
+Total time 0:01:50
+
+Study Static Analysis:LAUNCHPAD ANALYSIS started: 04-Apr-25, 11:19:51 AM
+Number of configurations: 1
+Default mesh: 128929 elements, 241096 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 146s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:LAUNCHPAD ANALYSIS finished: 04-Apr-25, 11:23:54 AM
+Total time 0:04:03
+
