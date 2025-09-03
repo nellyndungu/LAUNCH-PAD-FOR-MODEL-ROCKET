@@ -22,7 +22,7 @@ The launchpad design should allow for fabrication using standard materials and l
 ## Design calculations
 The mean thrust of the motor is 3kN. Using a safety factor of 2:
 The design load is given by:
-$$ L_d = SF \times L_a $$
+$ L_d = SF \times L_a $
 where $L_d$ is design load, $SF$ is safety factor and $L_a$ is the actual load resulting to design load of 6 kN.
 The horizontal component of the design load is given by:
 $$ F_h = L_d \times sin \alpha $$
@@ -59,3 +59,4 @@ $$ \delta = \frac{FL^3}{3EI} $$
 The  moment of inertia I for the 70mm hollow square cross-section is given as:
 $$ I = \frac{B^4 - (B - 2t)^4}{12} $$ resulting to 208,492 $mm^4$
 The maximum deflection was found to be 268 mm. This deflection is huge and exceeds the maximum allowable deflection.
+
