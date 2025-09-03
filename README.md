@@ -25,7 +25,7 @@ The design load is given by:
 $$ L_d = SF \times L_a $$
 where $L_d$ is design load, $SF$ is safety factor and $L_a$ is the actual load resulting to design load of 6 kN.
 The horizontal component of the design load is given by:
-$$ F_h = L_d \times sin \alpha $$
+[\ F_h = L_d \times sin \alpha ]
 where $F_h$ is horizontal component of design load and \alpha is rocket tilt angle of 5° resulting to 523 N. The launch rail assumes a cantilever fixed at different point and made of hollow square tubes. The design load shall be used to calculate the base dimensions and base member sizing. The horizontal component force shall be used to size the rail support beams and their cross-section. The rail support is a cantilever beam with point load and fixed at base of the launchpad.
 
 Taking:
@@ -59,3 +59,4 @@ $$ \delta = \frac{FL^3}{3EI} $$
 The  moment of inertia I for the 70mm hollow square cross-section is given as:
 $$ I = \frac{B^4 - (B - 2t)^4}{12} $$ resulting to 208,492 $mm^4$
 The maximum deflection was found to be 268 mm. This deflection is huge and exceeds the maximum allowable deflection.
+
